@@ -38,6 +38,7 @@ public class TimeAndDateHandlerTest
     @AfterClass
     public static void tearDownClass()
     {
+        System.out.println("Done!");
     }
 
     @Before
